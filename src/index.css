@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.cursor-blink {
+  animation: blink 1s step-end infinite;
+}
+
+html {
+  overflow-anchor: none;
+}
+
+body {
+  background: #0e0e0f;
+  color: #f0ede6;
+  font-family: "Space Grotesk", sans-serif;
+}
+
