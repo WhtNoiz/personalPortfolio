@@ -89,6 +89,7 @@ const App = () => {
 
   return (
     <div className="relative">
+    <Analytics /> 
       <div ref={sentinelRef} className="absolute top-[60px] h-px" aria-hidden="true" />
       <div className="sticky top-0 z-10 bg-[#0e0e0f]">
         <Navbar handleNav={handleNav} />
