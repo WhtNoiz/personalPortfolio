@@ -2,6 +2,7 @@ const About = () => {
   return (
     <section className="px-8 py-20 border-b border-white/5 min-h-screen">
       <p className="text-xs tracking-widest text-white/40 uppercase mb-12">about</p>
+      <br />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
         <div>
           <p className="text-sm text-white/60 leading-relaxed mb-4">

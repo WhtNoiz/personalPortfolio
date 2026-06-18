@@ -93,7 +93,6 @@ const App = () => {
         <Navbar handleNav={handleNav} />
         <Hero heroText={heroText} handleNav={handleNav} scrolled={scrolled} />
       </div>
-      <br />
       <div>
         {renderSection()}
       </div>
