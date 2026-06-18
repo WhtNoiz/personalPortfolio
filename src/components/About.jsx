@@ -51,7 +51,7 @@ const About = () => {
           </div>
           <div className="my-3">
             <p className="text-xs tracking-widest text-white/20 uppercase mb-3">open to</p>
-            <p className="text-sm text-white/60">Internships, Junior Developer Roles</p>
+            <p className="text-sm text-white/60">Internships, Junior Developer Roles but also open to anything that can help me grow as a professional.</p>
           </div>
         </div>
       </div>

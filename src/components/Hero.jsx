@@ -9,7 +9,7 @@ const Hero = ({ heroText, handleNav, scrolled }) => {
         <span className={`inline-block w-1 bg-[#c43e46] ml-2 cursor-blink transition-all duration-500 ${scrolled ? 'h-7' : 'h-16'}`} />
       </h1>
       <p className={`text-white/40 font-normal transition-all duration-500 overflow-hidden ${scrolled ? 'max-h-0 opacity-0 mb-0' : 'max-h-20 opacity-100 text-2xl mb-8'}`}>
-        Developer <span className="text-[#c43e46]">by choice.</span> I build web apps, automation tools, and the occasional game.
+        I build software and study economics — apparently I enjoy debugging both code and capitalism
       </p>
       <div className={`flex gap-3 transition-all duration-500 overflow-hidden ${scrolled ? 'max-h-0 opacity-0' : 'max-h-20 opacity-100'}`}>
         <button
