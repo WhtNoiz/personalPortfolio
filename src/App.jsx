@@ -91,9 +91,9 @@ const App = () => {
       <div ref={sentinelRef} className="absolute top-[60px] h-px" aria-hidden="true" />
       <div className="sticky top-0 z-10 bg-[#0e0e0f]">
         <Navbar handleNav={handleNav} />
-        <br />
         <Hero heroText={heroText} handleNav={handleNav} scrolled={scrolled} />
       </div>
+      <br />
       <div>
         {renderSection()}
       </div>
