@@ -12,7 +12,7 @@ const About = () => {
             I care about building software that has <span className="text-white">solid logic and clean interfaces</span> — whether it's a web app, a game, or a command line tool.
           </p>
           <p className="text-sm text-white/60 leading-relaxed">
-          I enjoy <span className="text-white">learning new things</span> and exploring different areas, especially software development, cybersecurity, and how systems work end-to-end. I'm always looking for opportunities to grow, experiment, and contribute to meaningful projects.
+          I enjoy <span className="text-white">learning new things</span> and exploring different areas, especially software development, cybersecurity, <span className="text-white">economics</span>, business administration and how every kind of systems works. I'm always looking for opportunities to learn, grow, experiment, and contribute to meaningful projects.
           </p>
         </div>
         <div className="my-3">
