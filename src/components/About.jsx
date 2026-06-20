@@ -17,8 +17,12 @@ const About = () => {
         </div>
         <div className="my-3">
             <p className="text-xs tracking-widest text-white/20 uppercase mb-3">education</p>
-            <p className="text-sm text-white">Bachelor's Degree in Business Administration, UniCT</p>
+            <p className="text-sm text-white">Bachelor's Degree in Business Administration</p>
+            <p className="text-sm text-white/60">Department of Economics and Business · University of Catania</p>
             <p className="text-sm text-white/60 uppercase">oct 2019 - Current</p>
+            <p className="text-sm text-white">High School Diploma</p>
+            <p className="text-sm text-white/60">Liceo Scientifico Statle "Leonardo" - Giarre(CT)</p>
+            <p className="text-sm text-white/60 uppercase">sep 2014 - Jun 2019</p>
             <div className="my-3">
             <p className="text-xs tracking-widest text-white/20 uppercase mb-3">certificates</p>
             <p className="text-sm text-white">Cisco - Python Essentials 1</p>
